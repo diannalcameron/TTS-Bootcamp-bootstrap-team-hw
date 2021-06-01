@@ -33,6 +33,16 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.video {
+    background-image: url('assets/images/videobg.webp');
+    background-color:rgb(115, 195, 245);
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+}
+
 .header h1 {
     color: white;
 }
@@ -54,6 +64,19 @@ h1, h2, h3, h4, h5, h6 {
 .ready-hire {
     padding-left: 50px;
     padding-right: 50px;
+}
+
+.about-tts {
+    padding-top: 100px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 30px;
+}
+
+.hire-talent-sec {
+    padding: 40px;
+    background-color: rgb(40, 115, 255);
+    color: white;
 }
 
 #footer {
